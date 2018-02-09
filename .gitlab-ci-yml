@@ -1,0 +1,11 @@
+build_image:
+  stage: deploy
+  script:
+    - rm -rf dist
+    - npm run install
+    - npm run build
+    - docker-compose down
+    - docker-compose build
+    - docker-compose up -d 
+  tags:
+    - shell

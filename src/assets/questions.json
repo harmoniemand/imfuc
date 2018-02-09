@@ -1,0 +1,622 @@
+[
+    {
+      "id": 1,
+      "question": "while (true) {\n\tmurmeltier.log('hello world');\n}",
+      "answers": [
+        "Täglich grüßt das Murmeltier",
+        "Groundhog Day"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 2,
+      "question": "getAustrianPopstar().terminate();",
+      "answers": [
+        "Terminator"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "question": "Person[][] humans;\nChosenOne chosenOne = neo Person();",
+      "answers": [
+        "Matrix",
+        "The Matrix",
+        "Die Matrix"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 4,
+      "question": "List<Jew> list = new ArrayList<>();\nlist.forEach(Jew::save);",
+      "answers": [
+        "Schindlers Liste",
+        "Schindler's List"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "question": "try {\n\t if(you.able) {\n\t\tthrow new Person();\n\t }\n\t} catch(Person p) {\n\n\t}\n}",
+      "answers": [
+        "Catch me if you can"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "question": "let friends = bestFriends;\nfriends.quite();",
+      "answers": [
+        "Ziemlich beste Freunde",
+        "Intouchables",
+        "ToDo: Noch unausgereift"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "question": "Dream d = new Dream(new Dream(new Dream()));",
+      "answers": [
+        "Inception"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 8,
+      "question": "try {\n\tme.notToSleep();\n} catch (me) {\n\tkrueger.kill(me);\n}",
+      "answers": [
+        "A Nightmare on Elm Street",
+        "Nightmare on Elm Street",
+        "Nightmare",
+        "Nightmare Mörderische Träume"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "question": "Team team = new Team('A');",
+      "answers": [
+        "A-Team",
+        "A Team"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "question": "Avenger avenger = avengers.get(0);",
+      "answers": [
+        "The First Avenger",
+        "Captain America"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "question": "Number number = Number.parseInt(\"4\");",
+      "answers": [
+        "I am Number Four",
+        "I am Number 4"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 12,
+      "question": "man dragontraining",
+      "answers": [
+        "How to Train Your Dragon"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 13,
+      "question": "Man man = Man.fromMaterial(Materials.STEEL);",
+      "answers": [
+        "Man of Steel"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 14,
+      "question": "Address address = new Address(\"21 Jump Street\");\naddress.houseNumber++;",
+      "answers": [
+        "22 Jump Street"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 15,
+      "question": "List<Gangsters> gangsters = new ArrayList<Gangsters>();\nProtagonist p = new Protagonist();\np.dog.kill();\n\ngangsters.forEach(p::kill);",
+      "answers": [
+        "John Wick"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "question": "let hero: Man & Ant = new Hero()",
+      "answers": [
+        "Ant-Man",
+        "AntMan",
+        "Ant Man"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 17,
+      "question": "s = 'land';\nconsole.log(s.substr(0,2) + s.substr(0,2) + s);",
+      "answers": [
+        "LaLaLand",
+        "La La Land"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 18,
+      "question": "Person max = new Person();\nDisease d = Diseases.BSE;\nd.infect(max);",
+      "answers": [
+        "Mad Max"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "question": "List<Dog> dogs = new ArrayList<>();\nfor(int i = 0; i <= 100; i++) {\n\tdogs.add(new Dog(Breed.Dalmatian));\n}",
+      "answers": [
+        "101 Dalmatians",
+        "101 Dalmatiner"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 20,
+      "question": "Person max = new Person();\nmax.hurt(Integer.MAX_VALUE)",
+      "answers": [
+        "Max Payne"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 21,
+      "question": "List<Fish> ocean = new ArrayList<>();\nocean.stream().filter(f -> f.getName().equals('Nemo')).findFirst();",
+      "answers": [
+        "Finding Nemo",
+        "Findet Nemo"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 22,
+      "question": "let couple = new Couple(\n\tnew Killer(), \n\tnew Killer());",
+      "answers": [
+        "Mr. & Mrs. Smith"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 23,
+      "question": "Books[] b = BookGenerator.generate(4, [Flags.Dragons, Flags.Elves, Flags.EvilKing, Flags.ChosenOne]);\nMovie m = new MovieAdapter(b[0].alterStory(BullshitGenerator.random());",
+      "answers": [
+        "Eragon"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 24,
+      "question": "let fishInTheSea = [\n\t'Alfred', \n\t'Bertha', \n\t'Darius', \n\t'Dory', \n\t'Corbin', \n\t'Daisy', \n\t'Kyle', \n\t'Lennard', \n\t'Max', \n\t'Cindy', \n\t'Rory'];\nfishInTheSea.find(friend);",
+      "answers": [
+        "Finding Dory",
+        "Findet Dorie"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 25,
+      "question": "StructuralElement e = new Wall();\nSystem.out.println(e + \"e\");",
+      "answers": [
+        "Wall-E",
+        "Walle"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 26,
+      "question": "bool down = true;\n!down;",
+      "answers": [
+        "Up",
+        "Oben"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 27,
+      "question": "// https://en.wikipedia.org/wiki/Indiana_Pi_Bill\nMath.PI = 3;",
+      "answers": [
+        "American Pie",
+        "ToDo: ERKLÄRUNG"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 28,
+      "question": "public void JumpTo(Place location)",
+      "answers": [
+        "Jumper"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 29,
+      "question": "Barber barber = new Barber();\nBaker baker = new Baker();\n\nObject result = barber.serveCustomer(customer);\nbaker.sell(result);",
+      "answers": [
+        "Sweeney Todd"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 30,
+      "question": "Energy e = monster.scare(kid);",
+      "answers": [
+        "Monster AG"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 31,
+      "question": "const c = new Club();\nconsole.log(c); // prints nothing",
+      "answers": [
+        "Fight Club"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 32,
+      "question": "List<Gangster> gangsters = new ArrayList<>(11);",
+      "answers": [
+        "Ocean's 11",
+        "Oceans Eleven"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 33,
+      "question": "var popultaion = men.filter(m => m.age < old);\nCountry country = Country.fromPopulation(population);",
+      "answers": [
+        "No Country for Old Men"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 34,
+      "question": "IFlower rose = Witch.Dispenser(FlowerTypes.Rose);\nHuman male = new Monster();\nHuman female = new Beauty();\nmale.HP = rose.HP;",
+      "answers": [
+        "Die Schöne und das Biest",
+        "Beauty and the Beast"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 35,
+      "question": "group.visit(zone);\nreturn chosenOne;",
+      "answers": [
+        "Stalker"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 36,
+      "question": "function delay() { //do not look at this\n\tlet waitTill = new Date(new Date().getTime() + 200);\n\twhile(waitTill > new Date()){}\n}\n\t\nlet line = '---------';\nwhile(true) {\n\tfor(let i = 0; i < 10; i++) {\n\t\tprocess.stdout.cursorTo(0);\n\t\tprocess.stdout.write(line.substr(0,i));\n\t\tprocess.stdout.write('X');\n\t\tprocess.stdout.write(line.substr(i, 10-i));\n\t\tdelay();\n\t}\n\tfor(let i = 10; i >= 0; i--) {\n\t\tprocess.stdout.cursorTo(0);\n\t\tprocess.stdout.write(line.substr(0,i));\n\t\tprocess.stdout.write('X');\n\t\tprocess.stdout.write(line.substr(i, 10-i));\n\t\tdelay();\n\t}\n}",
+      "answers": [
+        "Knight Rider"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 37,
+      "question": "0x7DC",
+      "answers": [
+        "1984",
+        "Nineteen Eighty-Four"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 38,
+      "question": "let date = new Date(new Date().getFullYear(), 6, 4);",
+      "answers": [
+        "Independence Day"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 39,
+      "question": "for(let i = 0; i < 300; i++) {\n\tsoldiers.add(new Spartan());\n}",
+      "answers": [
+        "300"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 40,
+      "question": "Portal portal = new Portal();\nportal.connect(wardrobe, magicWorld);",
+      "answers": [
+        "Chronicles of Narnia",
+        "Chroniken von Narnia"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 41,
+      "question": "Movie newMovie = Culture.getPopularMMORPGS().first().createMovie();",
+      "answers": [
+        "Warcraft"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 42,
+      "question": "Tailor tailor = new Tailor();\n(Agent)tailor;",
+      "answers": [
+        "Kingsman"
+      ],
+      "rating": 4
+    },
+    {
+      "id": 43,
+      "question": "@Stereotype\nclass VampireMovie\n{\n\tprivate List<ISparkle> vampires;\n}",
+      "answers": [
+        "Twilight"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 44,
+      "question": "class Protgonist implements IFemale\n{\ntprivate List<Hair> hair;\n\n\tpublic Protagonist() {\n\t\tCollections.shuffle(hair);\n\t}\n}",
+      "answers": [
+        "Tangled",
+        "Rapunzel"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 45,
+      "question": "public Interface Robot {\n\n}",
+      "answers": [
+        "I, Robot"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 46,
+      "question": "person.isInsane = false;\nif(person.isInsane) island.stay();\nelse island.stay();",
+      "answers": [
+        "Shutter Island"
+      ],
+      "rating": 0
+    },
+    {
+      "id": 47,
+      "question": "Game g = GameFactory.generate([Flags.Historic, Flags.Simulation, Flags.SecretOrganizations]);\nMovie m = MovieAdapter.fromGame(g).shitty();",
+      "answers": [
+        "Assassins Creed"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 48,
+      "question": "Time t = new Currency(5, Unit.SECONDS);",
+      "answers": [
+        "In Time"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 49,
+      "question": "knight.convert(Sides.DARK);",
+      "answers": [
+        "Star Wars"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 50,
+      "question": "while(speed > 50);\nthrow new Explosion();",
+      "answers": [
+        "Speed"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 51,
+      "question": "Animal[] a = new Animal[3];\nfor(int i = 0; i < 3; i++) {\n\ta[i] = Rodent.pitch(Pitch.UP, new Octaves(2));\n}\na.sing();",
+      "answers": [
+        "Chipmunks"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 52,
+      "question": "WizardMovie[7] movies;\nmovies.forEach(m => m.setStoryline([\n\tStoryElement.Family,\n\tStoryElement.StoryElement.Friends,\n\tStoryElement.School,\n\tStoryElement.Christmas,\n\tStoryElement.Danger,\n\tStoryElement.Success,\n\tStoryElement.HouseCup,\n\tStoryElement.Family\n]));",
+      "answers": [
+        "Harry Potter"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 53,
+      "question": "['love', 'life'].map(l => `${solution} is ${l}`).join(', ');",
+      "answers": [
+        "Shrek"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 54,
+      "question": "Movie m = new Movie();\nm.addAttribute(Attributes.SCARY);",
+      "answers": [
+        "Scary Movie"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 55,
+      "question": "List<Knight> k = getJedis();\nk.get(k.size() - 1);",
+      "answers": [
+        "The last Jedi",
+        "Der letzte Jedi"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 56,
+      "question": "const shopPrediction = (customer) => {\n\tif(customer.name == 'Peter Arbeitsloser')\n\t\treturn new Product('Vibrator', Colors.ROSA, Shape.DOLPHIN);\n\treturn products.filterInterests(customer.interests);\n}",
+      "answers": [
+        "Quality Land"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 57,
+      "question": "return !persons.credible();",
+      "answers": [
+        "The Incredibles",
+        "Die Unglaublichen"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 58,
+      "question": "God g = new EgyptianGod();\nTeam t1 = new Team();\nFuturisticDevice device = new FuturisticDevice(Country.EGYPT);\nt1.travel(device);\nt1.kill(g);\nt1.travel(device);",
+      "answers": [
+        "Stargate"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 59,
+      "question": "java -jar program.jar\n...\n...\n...\n\"The program stopped responding.\"",
+      "answers": [
+        "Frozen"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 60,
+      "question": "ObjectPool op = new ObjectPool();\nop.die();",
+      "answers": [
+        "Deadpool"
+      ],
+      "rating": 2
+    },
+    {
+      "id": 61,
+      "question": "Organization org = new Organization();\nOrphanage o = new Orphanage();\nList<Agent> agents = org.recruitFrom(o);\nagents.stream.allMatch(agent -> agent.getAge() <= 18);\n\norg.sendOnMissions(agents);",
+      "answers": [
+        "CHERUB"
+      ],
+      "rating": 3
+    },
+    {
+      "id": 62,
+      "question": "Person p = new Person();\nAnimal a = new Chiroptera();\ncrossbreed(p, a);",
+      "answers": [
+        "Batman"
+      ],
+      "rating": 5
+    },
+    {
+      "id": 63,
+      "question": "List<Kid> k = new Kids();\nk.turbo();",
+      "answers": [
+        "New Kids Turbo"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    },
+    {
+      "id": 0,
+      "question": "",
+      "answers": [
+        ""
+      ],
+      "rating": 0
+    }
+  ]

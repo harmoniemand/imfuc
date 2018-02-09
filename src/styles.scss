@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+$theme-colors: (
+    "primary": rgba(255, 255, 255, 0.5), 
+    "dark": rgba(255, 255, 255, 0.03), 
+    "danger": #ff4136
+);
+
+$enable-rounded: false;
+$navbar-height: 40px;
+
+$font-family-sans-serif: Roboto, "Helvetica Neue", sans-serif;
+$font-family-serif: Roboto, "Helvetica Neue", sans-serif;
+$font-family-monospace: Roboto, "Helvetica Neue", sans-serif;
+$font-family-base: $font-family-sans-serif !default;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+body {
+    background: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+    font-size: 5vh;
+    overflow: hidden;
+}
+
+/*
+input {
+    height: 10vh;
+    padding: 2.5vh 5vh;
+    line-height: 10vh;
+    font-size: 5vh;
+    background: none;
+    color: rgb(255, 255, 255);
+    border: solid 1px rgba(255, 255, 255, 0.3), solid 5px rgba(255, 255, 255, 0.1);
+}
+
+
+button {
+    height: 10vh;
+    padding: 0 5vh;
+    line-height: 10vh;
+    font-size: 5vh;
+    background: none;
+    color: rgb(255, 255, 255);
+}
+*/

@@ -1,0 +1,15 @@
+
+<pre><code class="language-JavaScript" *ngIf="data">{{data.question}}</code></pre>
+
+
+
+<div class="footer d-flex flex-row justify-content-between">
+  <div class="points">
+      <span *ngIf="timer < 10">5 Punkte</span>
+      <span *ngIf="timer >= 10 && timer < 20">4 Punkte</span>
+      <span *ngIf="timer >= 20 && timer < 30">3 Punkte</span>
+  </div>
+  
+  
+  <div class="timer" [ngClass]="{ 'text-warning': timer >= 20 && timer < 30, 'text-danger': timer >= 30 }">{{30 - timer}}</div>
+</div>
