@@ -9,7 +9,7 @@ import { BlankComponent } from './components/blank/blank.component';
 const routes: Routes = [
   {
     path: '',
-    redirectTo: '/blank',
+    redirectTo: '/welcome',
     pathMatch: 'full'
   },
   {
